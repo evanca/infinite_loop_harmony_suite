@@ -1,0 +1,18 @@
+Title: Summer Park - 8bit tune (loop)
+Author: Scribe (Daniel Stephens)
+URL: https://opengameart.org/content/summer-park-8bit-tune-loop
+License(s):
+    * CC0 ( http://creativecommons.org/publicdomain/zero/1.0/legalcode )
+File(s):
+    * summer_park.mp3
+
+----------------------------------------
+
+Title: Long Away Home [8bit]
+Author: nene
+URL: https://opengameart.org/content/long-away-home-8bit
+License(s):
+    * CC0 ( http://creativecommons.org/publicdomain/zero/1.0/legalcode )
+File(s):
+    * long_away_home.wav
+

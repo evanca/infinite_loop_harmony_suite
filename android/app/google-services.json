@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "846503316572",
+    "project_id": "whaley-adaf8",
+    "storage_bucket": "whaley-adaf8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846503316572:android:707b0109f47031c80f2a99",
+        "android_client_info": {
+          "package_name": "studio.happycode.whaley"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBabus4hWBuccM7_xj7tTR9D-p_FOsnjJs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

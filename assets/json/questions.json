@@ -1,0 +1,242 @@
+[
+  {
+    "fact": "Only 20% of global waste is recycled each year.",
+    "question": "What percentage of global waste is recycled each year?",
+    "answer": "20%",
+    "source_url": "https://www.globalcitizen.org/en/content/global-waste-facts-plastic-fashion-food/"
+  },
+  {
+    "fact": "Municipal solid waste generation is expected to increase by 70% by 2050.",
+    "question": "By what year is municipal solid waste generation expected to increase by 70%?",
+    "answer": "2050",
+    "source_url": "https://www.globalcitizen.org/en/content/global-waste-facts-plastic-fashion-food/"
+  },
+  {
+    "fact": "One-third of the world's food produced ends up as waste.",
+    "question": "What proportion of the world's food produced ends up as waste?",
+    "answer": "One-third",
+    "source_url": "https://www.globalcitizen.org/en/content/global-waste-facts-plastic-fashion-food/"
+  },
+  {
+    "fact": "85% of textiles in the US end up in the trash.",
+    "question": "What percentage of textiles in the US end up in the trash?",
+    "answer": "85%",
+    "source_url": "https://www.globalcitizen.org/en/content/global-waste-facts-plastic-fashion-food/"
+  },
+  {
+    "fact": "The COVID-19 pandemic exacerbated the environmental issue of plastic waste, generating over 8 million tons.",
+    "question": "Which significant environmental issue did the COVID-19 pandemic exacerbate by generating over 8 million tons?",
+    "answer": "Plastic",
+    "source_url": "https://www.globalcitizen.org/en/content/global-waste-facts-plastic-fashion-food/"
+  },
+  {
+    "fact": "Plastic production has exponentially increased since the 1950s.",
+    "question": "Since which decade has plastic production exponentially increased?",
+    "answer": "1950s",
+    "source_url": "https://www.globalcitizen.org/en/content/how-big-of-a-problem-is-plastic-pollution/"
+  },
+  {
+    "fact": "9% of plastic waste has been recycled.",
+    "question": "What percentage of plastic waste has been recycled?",
+    "answer": "9%",
+    "source_url": "https://www.globalcitizen.org/en/content/how-big-of-a-problem-is-plastic-pollution/"
+  },
+  {
+    "fact": "Annually, the ocean is burdened with approximately 12 million tons of plastic waste.",
+    "question": "How many tons of plastic are estimated to enter the ocean each year?",
+    "answer": "12 million",
+    "source_url": "https://www.globalcitizen.org/en/content/how-big-of-a-problem-is-plastic-pollution/"
+  },
+  {
+    "fact": "By 2050, ocean plastic will outweigh all the fish.",
+    "question": "By what year will ocean plastic outweigh all the fish?",
+    "answer": "2050",
+    "source_url": "https://www.globalcitizen.org/en/content/how-big-of-a-problem-is-plastic-pollution/"
+  },
+  {
+    "fact": "There are an estimated 5.25 trillion pieces of microplastic contaminating the waters.",
+    "question": "How many pieces of microplastic contaminate the waters?",
+    "answer": "5.25 trillion",
+    "source_url": "https://www.globalcitizen.org/en/content/how-big-of-a-problem-is-plastic-pollution/"
+  },
+  {
+    "fact": "Aluminum is infinitely recyclable, making it a priority in recycling efforts.",
+    "question": "Which material is infinitely recyclable, making it a priority in recycling efforts?",
+    "answer": "Aluminum",
+    "source_url": "https://www.globalcitizen.org/en/content/simple-recycling-rules-to-live-by/"
+  },
+  {
+    "fact": "Common office items like receipts are generally not recyclable due to their laminated nature.",
+    "question": "What common office item is generally not recyclable due to its shiny, laminated nature?",
+    "answer": "Receipts",
+    "source_url": "https://www.globalcitizen.org/en/content/simple-recycling-rules-to-live-by/"
+  },
+  {
+    "fact": "Using reusable bottles instead of single-use plastic ones is a key step in reducing waste.",
+    "question": "To reduce waste, what type of bottle should you use instead of single-use plastic bottles?",
+    "answer": "Reusable",
+    "source_url": "https://www.globalcitizen.org/en/content/simple-recycling-rules-to-live-by/"
+  },
+  {
+    "fact": "Composting kitchen scraps is an effective way to recycle organic material.",
+    "question": "What kitchen waste can be turned into compost as a way of recycling organic material?",
+    "answer": "Scraps",
+    "source_url": "https://www.globalcitizen.org/en/content/simple-recycling-rules-to-live-by/"
+  },
+  {
+    "fact": "Reusable bags are a sustainable alternative to single-use plastic grocery bags.",
+    "question": "What type of bag is a sustainable alternative to using plastic grocery bags?",
+    "answer": "Reusable",
+    "source_url": "https://www.globalcitizen.org/en/content/simple-recycling-rules-to-live-by/"
+  },
+  {
+    "fact": "Used batteries contain hazardous materials and should be disposed of properly to avoid environmental harm.",
+    "question": "What type of batteries should be disposed of in the hazardous waste bin?",
+    "answer": "Used",
+    "source_url": "https://chat.openai.com/"
+  },
+  {
+    "fact": "Drink containers made of certain materials belong in the recyclable packaging bin to be processed and reused.",
+    "question": "Which drink container belongs in the recyclable packaging bin?",
+    "answer": "Can",
+    "source_url": "https://chat.openai.com/"
+  },
+  {
+    "fact": "Kitchen scraps like eggshells are biodegradable and can be composted, turning waste into valuable organic material.",
+    "question": "What kitchen scrap goes into the biodegradable waste bin?",
+    "answer": "Eggshells",
+    "source_url": "https://chat.openai.com/"
+  },
+  {
+    "fact": "Old reading materials like newspapers are recyclable and can be processed into new paper products, reducing the need for virgin materials.",
+    "question": "What type of old reading material belongs in the paper and cardboard bin?",
+    "answer": "Newspaper",
+    "source_url": "https://chat.openai.com/"
+  },
+  {
+    "fact": "Snack packaging, especially chip bags, are often non-recyclable due to their mixed material composition and should be discarded in the general waste bin.",
+    "question": "Which type of snack packaging is typically non-recyclable and should be disposed of in the general waste bin?",
+    "answer": "Chip bag",
+    "source_url": "https://chat.openai.com/"
+  },
+  {
+    "fact": "Light sources like bulbs contain materials that can be hazardous and need to be disposed of in specific ways to avoid environmental damage.",
+    "question": "What type of light source needs to be placed in the hazardous waste bin?",
+    "answer": "Bulb",
+    "source_url": "https://chat.openai.com/"
+  },
+  {
+    "fact": "Household items like bottles are often recyclable, allowing materials to be reused and reducing the environmental footprint.",
+    "question": "Which household item should be recycled in the recyclable packaging bin?",
+    "answer": "Bottle",
+    "source_url": "https://chat.openai.com/"
+  },
+  {
+    "fact": "Lawn waste such as leaves can be composted, turning organic waste into nutrient-rich soil instead of ending up in landfills.",
+    "question": "What lawn waste belongs in the biodegradable waste bin?",
+    "answer": "Leaves",
+    "source_url": "https://chat.openai.com/"
+  },
+  {
+    "fact": "Packaging materials like boxes are often made of paper or cardboard and can be recycled to create new products.",
+    "question": "What packaging material goes into the paper and cardboard bin?",
+    "answer": "Box",
+    "source_url": "https://chat.openai.com/"
+  },
+  {
+    "fact": "Personal care items like diapers cannot be recycled and should be disposed of in the general waste bin.",
+    "question": "Which personal care item should be disposed of in the general waste bin?",
+    "answer": "Diaper",
+    "source_url": "https://chat.openai.com/"
+  },
+  {
+    "fact": "Hazardous electronics like old phones contain materials that can be harmful to the environment and should be disposed of properly.",
+    "question": "What type of hazardous electronic belongs in the hazardous waste bin?",
+    "answer": "Phone",
+    "source_url": "https://chat.openai.com/"
+  },
+  {
+    "fact": "Kitchen foil made of aluminum is recyclable and can be processed into new products, making it an important material for recycling efforts.",
+    "question": "Which kitchen foil belongs in the recyclable packaging bin?",
+    "answer": "Aluminum",
+    "source_url": "https://chat.openai.com/"
+  },
+  {
+    "fact": "Coffee waste like grounds is biodegradable and can be composted, contributing to soil health and reducing landfill waste.",
+    "question": "What type of coffee waste goes into the biodegradable waste bin?",
+    "answer": "Grounds",
+    "source_url": "https://chat.openai.com/"
+  },
+  {
+    "fact": "Office supplies like envelopes are often made of paper and can be recycled, helping to reduce the consumption of new paper.",
+    "question": "What office supply is suitable for the paper and cardboard bin?",
+    "answer": "Envelope",
+    "source_url": "https://chat.openai.com/"
+  },
+  {
+    "fact": "Dinnerware items like ceramics, if broken, cannot be recycled and should be disposed of in the general waste bin.",
+    "question": "Which dinnerware item should go into the general waste bin if broken?",
+    "answer": "Ceramics",
+    "source_url": "https://chat.openai.com/"
+  },
+  {
+    "fact": "Automotive products like used oil can be harmful to the environment and must be disposed of in the hazardous waste bin.",
+    "question": "What automotive product must be placed in the hazardous waste bin?",
+    "answer": "Oil",
+    "source_url": "https://chat.openai.com/"
+  },
+  {
+    "fact": "Container types like jars, when made of recyclable materials, can be processed and reused, reducing the need for new raw materials.",
+    "question": "Which container type should be recycled in the recyclable packaging bin?",
+    "answer": "Jar",
+    "source_url": "https://chat.openai.com/"
+  },
+  {
+    "fact": "Yard debris like twigs is biodegradable and can be composted, reducing landfill waste and contributing to a healthier environment.",
+    "question": "What type of yard debris belongs in the biodegradable waste bin?",
+    "answer": "Twigs",
+    "source_url": "https://chat.openai.com/"
+  },
+  {
+    "fact": "Books, especially paperbacks, can be recycled and turned into new paper products, conserving resources and energy.",
+    "question": "What type of book recycling goes into the paper and cardboard bin?",
+    "answer": "Paperback",
+    "source_url": "https://chat.openai.com/"
+  },
+  {
+    "fact": "Toiletry items like used razors cannot be recycled and should be disposed of in the general waste bin to avoid contamination.",
+    "question": "Which toiletry item should be disposed of in the general waste bin?",
+    "answer": "Razor",
+    "source_url": "https://chat.openai.com/"
+  },
+  {
+    "fact": "Outdated medical supplies, including medications, can be hazardous and require disposal in the hazardous waste bin to prevent harm.",
+    "question": "What outdated medical supplies belong in the hazardous waste bin?",
+    "answer": "Medications",
+    "source_url": "https://chat.openai.com/"
+  },
+  {
+    "fact": "Beverage holders like cartons, when recyclable, should be placed in the recyclable packaging bin to reduce waste.",
+    "question": "Which beverage holder should be placed in the recyclable packaging bin?",
+    "answer": "Carton",
+    "source_url": "https://chat.openai.com/"
+  },
+  {
+    "fact": "Biodegradable food preparation waste, particularly from vegetables, can be effectively turned into compost, transforming waste into valuable organic material.",
+    "question": "What type of food preparation waste is biodegradable and recommended for composting?",
+    "answer": "Vegetables",
+    "source_url": "https://chat.openai.com/"
+  },
+  {
+    "fact": "Mailing supplies like catalogs are often made of paper and can be recycled, reducing the environmental impact of waste.",
+    "question": "What mailing supply is suitable for the paper and cardboard bin?",
+    "answer": "Catalog",
+    "source_url": "https://chat.openai.com/"
+  },
+  {
+    "fact": "Worn-out items like socks, when not suitable for donation or reuse, should be disposed of in the general waste bin.",
+    "question": "Which worn-out item should go into the general waste bin?",
+    "answer": "Socks",
+    "source_url": "https://chat.openai.com/"
+  }
+]
